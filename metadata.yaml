@@ -1,4 +1,8 @@
 _repo: The-Truth-About-the-Congo-The-Chicago-Tribune-Articles_50567
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50567-h/images/cover.jpg
 creator:
   author:
     agent_name: Starr, Frederick
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5490
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Starr
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50567#The-Truth-About-the-Congo-The-Chicago-Tribune-Articles
 gutenberg_issued: '2015-11-28'
 gutenberg_type: Text
 identifiers:
